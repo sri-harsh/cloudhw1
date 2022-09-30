@@ -3,14 +3,14 @@
 ## Nigel Saurino - ns 5329 ##
 ## Sri Harsha TR - st4403 ##
 
-# Chatbot Concierge #
+Chatbot Concierge 
 
-## About ##
+ About
 
 Frontend starter repository for HW 1 of the Cloud Computing & Big Data
 class at Columbia University and New York University.
 
-## Usage ##
+ Usage 
 
 1. Clone the repository.
 2. Replace `/assets/js/sdk/apigClient.js` with your own SDK file from API
